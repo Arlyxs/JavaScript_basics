@@ -51,3 +51,4 @@ selectedColors[2] = 1;
 console.log(selectedColors);
 //Objects automatically inherit properties (.) lists them
 console.log(selectedColors.find["red"]);
+console.log('hello there world');

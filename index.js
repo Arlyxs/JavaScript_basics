@@ -6,7 +6,7 @@ declare variables on separate lines.  */
 console.log("Hello World!");
 console.log(2 + 5);
 
-let nameMe = "Lexi"; //String Literal
+let nameMe = "Lyxi"; //String Literal
 console.log(nameMe);
 let age = 30; //Number Literal
 let isApproved = false; //Bolean Literal

@@ -9,7 +9,7 @@ console.log(2 + 5);
 let nameMe = "Lyxi"; //String Literal
 console.log(nameMe);
 let age = 30; //Number Literal
-let isApproved = false; //Bolean Literal
+let isApproved = false; //Boolean Literal
 let firstName = undefined;
 let selectColor = null; //Object
 console.log(isApproved);
@@ -27,7 +27,7 @@ console.log(typeof nameMe);
 //Object Literal with key / value pairs
 
 let person = {
-  name: "Lexi",
+  name: "Lyxi",
   age: 30,
 };
 
@@ -52,5 +52,7 @@ console.log(selectedColors);
 //Objects automatically inherit properties (.) lists them
 console.log(selectedColors.find["red"]);
 console.log("hello there world");
-//my first javscr code
-console.log("hello worldy ppl");
+//my first javascript code
+console.log("hello worldly ppl");
+
+console.log("just checking");

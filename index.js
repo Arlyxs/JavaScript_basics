@@ -75,3 +75,6 @@ function square(number) {
   return number * number;
 }
 console.log(square(3));
+
+//checking ligatures
+let x => <= >= && ---  ;

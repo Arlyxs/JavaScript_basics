@@ -56,3 +56,6 @@ console.log("hello there world");
 console.log("hello worldly ppl");
 
 console.log("just checking");
+
+//testing ligatures
+let x => <= >= && --- ;
